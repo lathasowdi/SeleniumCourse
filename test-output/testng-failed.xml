@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="RunTest(failed)">
+    <classes>
+      <class name="ctg.automation.testcases.TestCaseImageRecognition">
+        <methods>
+          <include name="setUP"/>
+          <include name="isImageDisplayed"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- ctg.automation.testcases.TestCaseImageRecognition -->
+    </classes>
+  </test> <!-- RunTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

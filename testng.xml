@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="RunTest">
+    <classes>
+	<!--class name="ctg.automation.testcases.TestCaseDataHolder"/>
+		<class name="ctg.automation.testcases.Exercise10"/>
+		<class name="ctg.automation.testcases.GoogleSearchPage1"/>
+      <class name="ctg.automation.testcases.GoogleSearchPage2"/>
+      <class name="ctg.automation.testcases.GoogleSearchPage3"/>
+      <class name="ctg.automation.testcases.GoogleSearchPage4"/>
+      <class name="ctg.automation.testcases.TestCaseImageRecognition"/>
+		 
+		<class name="ctg.automation.testcases.TestCaseCustomExpectedCondition"/>
+		 
+		<class name="ctg.automation.testcases.TestCaseJavaScript"/>
+		<class name="ctg.automation.testcases.TestCaseStatsPage"/>
+		<class name="ctg.automation.testcases.TestCaseGenerateReports"/-->
+		
+      
+    </classes>
+  </test> <!-- RunTest -->
+</suite> <!-- Suite -->
